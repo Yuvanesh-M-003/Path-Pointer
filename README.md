@@ -18,7 +18,7 @@ Goal setting
 
 Frontend: React (Vite)
 
-Backend: Spring Boot
+Backend: Spring Boot (Java)
 
 Database: PostgreSQL
 
